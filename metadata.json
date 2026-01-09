@@ -1,0 +1,7 @@
+{
+  "name": "StepRewards - Walk to Earn",
+  "description": "تطبيق متكامل للربح مقابل المشي ومشاهدة الإعلانات، يتميز بواجهة عصرية ونظام مكافآت ذكي مدعوم بالذكاء الاصطناعي.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
